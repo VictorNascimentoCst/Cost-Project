@@ -1,0 +1,12 @@
+.newproject_cointainer {
+    width: 450px;
+    margin: auto;
+    padding: 3em;
+}
+.newproject_cointainer h1 {
+    margin-bottom: .5em;
+
+}
+.newproject_cointainer p {
+    color: #777;
+}

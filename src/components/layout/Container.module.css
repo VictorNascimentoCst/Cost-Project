@@ -1,0 +1,20 @@
+.container_layout {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.min_height {
+    min-height: 75%;
+}
+
+.star{
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start
+}
